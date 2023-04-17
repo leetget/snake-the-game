@@ -1,2 +1,3 @@
 release v-inf
 first project, created from xx.07.2020
+with the help of the exe file, you can open the game immediately
